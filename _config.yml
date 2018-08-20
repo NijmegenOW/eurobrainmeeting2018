@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "DevFest Season 2014"
+title: "PBSM 2014"
 email: "openscience.weekend@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/eurobrainmeeting2018"
