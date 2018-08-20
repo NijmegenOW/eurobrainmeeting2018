@@ -18,7 +18,8 @@ url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-26255736-2"
 googleAnalyticsSiteUrl: "nijmegenow.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: ""
+googleMapsJSAPI: "AIzaSyAeW3zJLXlPUieEk1utp8DQ98rN-a1Wezw"
 
 # Organizer Info
 organizerName: "GDG Lviv"
