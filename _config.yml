@@ -49,7 +49,6 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -66,7 +65,7 @@ heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "&nbsp;&nbsp;&nbsp;Registration&nbsp;&nbsp;&nbsp"}
 
 # About Block
-aboutTitle: "About The Psychological & Brain Sciences Meeting"
+aboutTitle: "About The CAPBS 2018 Annual Meeting"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
