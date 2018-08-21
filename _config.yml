@@ -63,7 +63,7 @@ typeoutTextValues: '"", "Nijmegen", "Netherlands", "China", "Germany"'
 typeoutFallback: "Nijmegen"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://bit.ly/dfua-c4p", text: "  Registration  "}
+ - {link: "https://bit.ly/dfua-c4p", text: "&nbsp;&nbsp;Registration&nbsp;&nbsp;"}
 
 # About Block
 aboutTitle: "About The Psychological & Brain Sciences Meeting"
