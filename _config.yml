@@ -24,10 +24,10 @@ googleMapsJSAPI: "AIzaSyAyLtVe_9lSWGPXFhdkLIBWu8V9eZAiF9E"
 # Organizer Info
 organizerName: "CAPBS NL"
 organizerAlternateName: "Chinese Association for Psychological & Brain Sciences"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerDescription: "Open communities who share experience about psychological & brain sciences with passion."
 organizerEmail: "openscience.weekend@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://nijmegenow.github.io/eurobrainmeeting2018/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -63,7 +63,7 @@ typeoutTextValues: '"", "Nijmegen", "Netherlands", "China", "Germany"'
 typeoutFallback: "Nijmegen"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://bit.ly/dfua-c4p", text: "Registration"}
+ - {link: "https://bit.ly/dfua-c4p", text: "  Registration  "}
 
 # About Block
 aboutTitle: "About The Psychological & Brain Sciences Meeting"
