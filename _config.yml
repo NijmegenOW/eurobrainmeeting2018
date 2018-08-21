@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "PBSM 2018"
+title: "CAPBS 2018 Annual Meeting, Nijmegen"
 email: "openscience.weekend@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "Chinese Association for Psychological & Brain Sciences 2018 Annual Meeting"
 baseurl: "/eurobrainmeeting2018"
-url: "https://gdg-x.github.io"
+url: "https://nijmegenow.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-26255736-2"
 googleAnalyticsSiteUrl: "nijmegenow.github.io"
@@ -22,10 +22,10 @@ siteVerification: ""
 googleMapsJSAPI: "AIzaSyAyLtVe_9lSWGPXFhdkLIBWu8V9eZAiF9E"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "CAPBS NL"
+organizerAlternateName: "Chinese Association for Psychological & Brain Sciences"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "openscience.weekend@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
