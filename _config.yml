@@ -59,7 +59,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Psychological & Brain Sciences Meeting <typeout> 2018"
 eventDate: "November 20-21, 2018"
-typeoutTextValues: '"", "Nijmegen", "Netherlands", "Europe", "Chinese"'
+typeoutTextValues: '"/n", "/nNijmegen", "/nNetherlands", "/nEurope", "/nChinese"'
 typeoutFallback: "Nijmegen"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
