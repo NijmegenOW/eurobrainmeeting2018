@@ -63,7 +63,7 @@ typeoutTextValues: '"", "Nijmegen", "Netherlands", "China", "Germany"'
 typeoutFallback: "Nijmegen"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://bit.ly/dfua-c4p", text: "&nbsp;&nbsp;Registration&nbsp;&nbsp;"}
+ - {link: "https://bit.ly/dfua-c4p", text: "&nbsp;&nbsp;&nbsp;Registration&nbsp;&nbsp;&nbsp"}
 
 # About Block
 aboutTitle: "About The Psychological & Brain Sciences Meeting"
@@ -183,12 +183,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://nijmegenow.github.io/eurobrainmeeting2018/", text: "CAPBS 2018"}
+   - {link: "http://www.52brain.com/", text: "52brain.com"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:openscience.weekend@gmail.com", text: "openscience.weekend@gmail.com"}
  -
   title: "FAQ"
   links:
