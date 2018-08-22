@@ -65,11 +65,11 @@ heroButtons:
  - {link: "https://goo.gl/jpELhK", text: "&nbsp;&nbsp;&nbsp;Registration&nbsp;&nbsp;&nbsp"}
 
 # About Block
-aboutTitle: "About the CAPBS 2018 Annual Meeting"
+aboutTitle: "The CAPBS 2018 Annual Meeting"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Youth", image: "conference.jpg", text: "Most of us are young researchers who are just starting our studies or careers. Awwsome speakers and lots of fun!" }
+ - {title: "Passion", image: "workshop.jpg", text: "Everyone has a passion for psychological & brain sciences. Follow your passions and join the two-day meeting!" }
+ - {title: "Success", image: "hackathon.jpg", text: "Good way to learn from peers and seek possibilities for collaboration. Come to sharpen your brain and make success happen!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
