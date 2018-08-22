@@ -37,7 +37,7 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Visualization
 * Machine leanring
 
-#### Please submit your proposals [here]("https://docs.google.com/forms/d/e/1FAIpQLSfGGLh_DxyaVZMuiZkBJMnz48XTtrHtoEIO0cEkrPuawXA9bw/viewform?usp=pp_url&entry.1753222212=Day+1&entry.1753222212=Day+2&entry.2109138769=Yes&entry.967589580=Chinese/%E4%B8%AD%E6%96%87&entry.1384406046=Expert").
+#### Please submit your proposals [here]("https://goo.gl/2Xgruc").
 __Deadline__ is September 10, 2014
 
 __Please note:__ There is no guarantee that a submission will be put onto the meeting agenda!<br/>

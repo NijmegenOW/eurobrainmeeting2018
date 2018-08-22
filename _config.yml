@@ -61,8 +61,8 @@ eventDate: "October 20-21, 2018"
 typeoutTextValues: '"", "Nijmegen", "Netherlands", "China", "Germany"'
 typeoutFallback: "Nijmegen"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {link: "https://bit.ly/dfua-c4p", text: "&nbsp;&nbsp;&nbsp;Registration&nbsp;&nbsp;&nbsp"}
+ - {link: "https://goo.gl/2Xgruc", text: "Become a speaker"}
+ - {link: "https://goo.gl/jpELhK", text: "&nbsp;&nbsp;&nbsp;Registration&nbsp;&nbsp;&nbsp"}
 
 # About Block
 aboutTitle: "About the CAPBS 2018 Annual Meeting"
