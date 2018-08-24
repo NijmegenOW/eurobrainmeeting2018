@@ -122,7 +122,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "CAPBS2018"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "http://#"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -132,7 +132,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://#"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
@@ -206,8 +206,8 @@ discusShortName: "CAPBS"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "关于我们/About us"
+aboutUs: "华人心理与脑科学学会是由海内外华人心理与脑科学学者组成的公益性、学术性社会团体，宗旨是汇集海内外广大心理与脑科学学者，开展学术活动，交流互通，促进合作，以更好地开展心理与脑科学研究，促进华人心理与脑科学人才的成长和提高。"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
