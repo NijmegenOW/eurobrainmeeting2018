@@ -71,9 +71,9 @@ heroButtons:
 # About Block
 aboutTitle: "The CAPBS 2018 Meeting"
 aboutBlock:
- - {title: "青春/Youth", image: "conference.jpg", text: "The Meeting is By Youth For Youth. We have awwsome speakers, fantastic audience,and lots of fun!" }
+ - {title: "青春/Youth", image: "conference.jpg", text: "By Youth For Youth. We have awseome speakers, fantastic audience, and lots of fun!" }
  - {title: "热情/Passion", image: "workshop.jpg", text: "Everyone has a passion for Psychological & Brain Sciences. Follow your passions and join our two-day party!" }
- - {title: "开放/Open", image: "workshop.jpg", text: "This is a Open community. We would like to share our experience and expertise, and learn from Peers." }
+ - {title: "开放/Open", image: "workshop.jpg", text: "An Open community. We would like to share our experience and expertise, and learn from Peers." }
  - {title: "成功/Success", image: "hackathon.jpg", text: "Good way to seek for Collaboration possibilities. Sharpen your brain and make Success happen!" }
 
 # Statistic Block
