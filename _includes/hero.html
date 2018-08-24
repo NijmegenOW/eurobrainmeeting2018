@@ -6,7 +6,7 @@
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
 	    <p>[<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>]</p>
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h2>{{ heroText[0] }} {{ heroText[1] }}</h2>
+            <p>{{ heroText[0] }} {{ heroText[1] }}</p>
 	    <h1>{{ site.heroTitleCN }}</h1>
 	    <h3>{{ site.heroTitleCN2 }}</h3>
             <p>{{ site.eventDate }} @{{ site.eventCity }}</p>
