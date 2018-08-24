@@ -8,7 +8,7 @@
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h5 style="font-weight: normal;">{{ heroText[0] }} {{ heroText[1] }}</h5>
 	    <h1>{{ site.heroTitleCN }}</h1>
-	    <h4>{{ site.heroTitleCN2 }}</h4>
+	    <h5 style="font-weight: normal;">{{ site.heroTitleCN2 }}</h5>
             <p>{{ site.eventDate }} @{{ site.eventCity }}</p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
