@@ -241,5 +241,5 @@ directionDetailsWideCards:
    -
     title: "Attendance Details"
     links:
-     - {ppermalink: "/cod/", text: "FAQ"}
+     - {permalink: "/cod/", text: "FAQ"}
 
