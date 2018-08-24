@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "CAPBS 2018 Annual Meeting, Nijmegen"
+title: "CAPBS 2018 Meeting, Nijmegen"
 email: "openscience.weekend@gmail.com"
-description: "Chinese Association for Psychological & Brain Sciences 2018 Annual Meeting"
+description: "Chinese Association for Psychological & Brain Sciences 2018 Meeting"
 baseurl: "/eurobrainmeeting2018"
 url: "https://nijmegenow.github.io"
 permalink: "/blog/:title"
@@ -57,7 +57,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Chinese Association for Psychological & Brain Sciences <typeout> 2018 Meeting"
-heroTitleCN: "欧洲华人心理与脑科学会议 暨 第二届52brain欧洲学术沙龙"
+heroTitleCN: "欧洲华人心理与脑科学会议"
+heroTitleCN2: "暨 第二届52brain欧洲学术沙龙"
 eventRegion: "Europe"
 eventCity: "Nijmegen, Netherlands"
 eventDate: "October 20-21, 2018"
@@ -70,9 +71,10 @@ heroButtons:
 # About Block
 aboutTitle: "The CAPBS 2018 Annual Meeting"
 aboutBlock:
- - {title: "Youth", image: "conference.jpg", text: "Most of us are young researchers who are just starting our studies or careers. Awwsome speakers and lots of fun!" }
- - {title: "Passion", image: "workshop.jpg", text: "Everyone has a passion for psychological & brain sciences. Follow your passions and join the two-day meeting!" }
- - {title: "Success", image: "hackathon.jpg", text: "Good way to learn from peers and seek possibilities for collaboration. Come to sharpen your brain and make success happen!" }
+ - {title: "Youth", image: "conference.jpg", text: "The Meeting is By Youth For Youth. We have awwsome speakers, fantastic audience,and lots of fun!" }
+ - {title: "Passion", image: "workshop.jpg", text: "Everyone has a passion for Psychological & Brain Sciences. Follow your passions and join our two-day party!" }
+ - {title: "Open", image: "workshop.jpg", text: "This is a Open community. We would like to share our experience and expertise, and learn from Peers." }
+ - {title: "Success", image: "hackathon.jpg", text: "Good way to seek for Collaboration possibilities. Sharpen your brain and make Success happen!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
