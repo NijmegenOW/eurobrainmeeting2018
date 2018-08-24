@@ -2,8 +2,9 @@
   group: "Main organizer"
   elements: 
     - {name: "CAPBS", description: "CAPBS - Chinese Association for Psychological & Brain Sciences", link: "https://nijmegenow.github.io/eurobrainmeeting2018/", imageUrl: "cabps.jpg"}
+    - {name: "NOW Nijmegen", description: "NOW - Neuroscience Open Science Weekend, Nijmegen", link: "https://nijmegenow.github.io/eurobrainmeeting2018/", imageUrl: "now.png"}
+    - {name: "52brain", description: "我爱脑科学论坛", link: "http://52brain.com/", imageUrl: "52brain.jpeg"}
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "NOW Nijmegen", description: "NOW - Neuroscience Open Science Weekend, Nijmegen", link: "https://nijmegenow.github.io/eurobrainmeeting2018/", imageUrl: "now.png"}
-    - {name: "52brain", description: "我爱脑科学论坛", link: "http://52brain.com/", imageUrl: "52brain.jpeg"}
+    
