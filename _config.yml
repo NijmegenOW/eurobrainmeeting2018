@@ -80,8 +80,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "30", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure brain talks"}
- - {count: "10", specialCharacter: "+", info: "speakers", detail: "from Europe and beyond"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure brain sciences"}
+ - {count: "15", specialCharacter: "+", info: "speakers", detail: "from Europe and beyond"}
  - {count: "3", specialCharacter: "", info: "topics", detail: "plus free discussion"}
 
 # Latest News Block
