@@ -45,7 +45,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "News"}
- - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
@@ -71,10 +71,10 @@ heroButtons:
 # About Block
 aboutTitle: "The CAPBS 2018 Meeting"
 aboutBlock:
- - {title: "青春/Youth", image: "conference.jpg", text: "By Youth For Youth. We have awseome speakers, fantastic audience, and lots of fun!" }
- - {title: "热情/Passion", image: "workshop.jpg", text: "Everyone has a passion for Psychological & Brain Sciences. Follow your passions and join our two-day party!" }
+ - {title: "青年/Youth", image: "conference.jpg", text: "By Youth For Youth. We have awseome speakers, fantastic audience, and lots of fun!" }
  - {title: "开放/Open", image: "workshop.jpg", text: "An Open community. We would like to share our experience and expertise, and learn from Peers." }
- - {title: "成功/Success", image: "hackathon.jpg", text: "Good way to seek for Collaboration possibilities. Sharpen your brain and make Success happen!" }
+ - {title: "连接/Connection", image: "workshop.jpg", text: "Good way to seek for Collaboration possibilities. Come and join our two-day party!" }
+ - {title: "科学/Science", image: "hackathon.jpg", text: "Everyone has a passion for Psychological & Brain Sciences. Follow your passions and sharpen your brain!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -180,7 +180,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=CAPBS2", icon: "twitter"}
- - {link: "https://weibo.com/kongxz", icon: "weibo"}
+ - {link: "https://weibo.com/52brain", icon: "weibo"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
