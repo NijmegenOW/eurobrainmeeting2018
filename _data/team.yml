@@ -61,8 +61,8 @@
   title: "Governing Board"
   thumbnailUrl: chuanpeng.jpg
   team: true
-  #ribbon: 
-  #  - {abbr: "GDG", title: "Google Developer Group"}
+  ribbon: 
+    - {abbr: "CAPBS2018", title: "CAPBS2018 Program Committee"}
   social: 
     - {name: "twitter", link: "https://twitter.com/hcp4715"}
     - {name: "site", link: "http://www.huchuanpeng.com/"}
@@ -73,6 +73,8 @@
   title: "Governing Board, Program Committee"
   thumbnailUrl: XiangzhenKong.jpg
   team: true
+  ribbon: 
+    - {abbr: "CAPBS2018", title: "CAPBS2018 Program Committee"}
   social: 
     - {name: "twitter", link: "https://twitter.com/xiangzhenkong"}
     - {name: "github", link: "https://github.com/Conxz"}
