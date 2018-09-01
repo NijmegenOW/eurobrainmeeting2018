@@ -30,7 +30,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://nijmegenow.github.io/eurobrainmeeting2018/"
 
 # Head
-metaKeywords: "brain, psychology, psychological, association, society, Chinese, Nijmegen, MPI, Donders"
+metaKeywords: "brain, psychology, psychological, association, society, Chinese, Nijmegen, MPI, Donders, Europe, European"
 twitterAccount: "@CAPBS"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -79,10 +79,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "30", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure brain sciences"}
  - {count: "15", specialCharacter: "+", info: "speakers", detail: "from Europe and beyond"}
- - {count: "3", specialCharacter: "", info: "topics", detail: "plus free discussion"}
+ - {count: "6", specialCharacter: "", info: "topics", detail: "plus free discussion"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -95,8 +95,8 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Donders Centre for Cognitive Neuroimaging"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationName: "To be determined, Nijmegen"
+eventLocationLink: "https://nijmegenow.github.io/eurobrainmeeting2018/"
 eventStreetAddress: "Kapittelweg 29"
 eventAddressLocality: "Nijmegen"
 eventAddressLocalityRegion: "Nijmegen"
@@ -218,7 +218,7 @@ findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapMobileCenterCoordinates: "49.056728, 3.117289"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
