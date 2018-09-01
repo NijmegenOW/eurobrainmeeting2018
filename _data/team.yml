@@ -115,7 +115,7 @@
   id: 103
   name: "刘威/Wei"
   surname: "Liu"
-  title: "#"
+  title: ""
   thumbnailUrl: weiliu.png
   subTeam: true
   social: 
@@ -124,7 +124,7 @@
   id: 104
   name: "何涛/Tao"
   surname: "He"
-  title: "#"
+  title: ""
   thumbnailUrl: taohe.png
   subTeam: true
   social: 
@@ -133,7 +133,7 @@
   id: 105
   name: "左培颖/Peiying"
   surname: "Zuo"
-  title: "#"
+  title: ""
   thumbnailUrl: Null.png
   subTeam: true
   social: 
@@ -142,7 +142,7 @@
   id: 106
   name: "谷晓静/Xiaojing"
   surname: "Gu"
-  title: "#"
+  title: ""
   thumbnailUrl: xiaojing_gu.jpg
   subTeam: true
   social: 
