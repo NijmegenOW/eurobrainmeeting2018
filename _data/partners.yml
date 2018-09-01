@@ -2,5 +2,5 @@
   group: "With support of"
   elements: 
     - {name: "52brain", description: "我爱脑科学论坛", link: "http://52brain.com/", imageUrl: "52brain.jpeg"}
-    - {name: "S2", description: "S2 - ", link: "http://#", imageUrl: "S2.svg", width: "120px"}
-    - {name: "S3", description: "S3 - ", link: "https://#", imageUrl: "S3.svg", width: "120px"}
+#    - {name: "S2", description: "S2 - ", link: "http://#", imageUrl: "S2.svg", width: "120px"}
+#    - {name: "S3", description: "S3 - ", link: "https://#", imageUrl: "S3.svg", width: "120px"}
