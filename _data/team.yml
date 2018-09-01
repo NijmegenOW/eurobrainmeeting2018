@@ -14,7 +14,7 @@
   name: "Tobias"
   surname: "Kalenscher"
   title: "Governing Board"
-  thumbnailUrl: tobis.jpg
+  thumbnailUrl: tobias.jpg
   team: true
   #ribbon: 
   #  - {abbr: "GDG", title: "Google Developer Group"}
@@ -25,7 +25,7 @@
   name: "龚栩/Xu"
   surname: "Gong"
   title: "Governing Board"
-  thumbnailUrl: Null.jpg
+  thumbnailUrl: Null.png
   team: true
   #ribbon: 
   #  - {abbr: "GDG", title: "Google Developer Group"}
@@ -92,7 +92,7 @@
   name: "孔祥祯/Xiangzhen"
   surname: "Kong"
   title: "Governing Board, Program Committee"
-  thumbnailUrl: Xiangzhen.jpg
+  thumbnailUrl: XiangzhenKong.jpg
   subTeam: true
   social: 
     - {name: "twitter", link: "https://twitter.com/xiangzhenkong"}
