@@ -1,60 +1,146 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "隋洁/Jie"
+  surname: "Sui"
+  title: "Governing Board"
+  thumbnailUrl: jiesui.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  #ribbon: 
+  #  - {abbr: "CAPBS", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "site", link: "https://researchportal.bath.ac.uk/en/persons/jie-sui"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Tobias"
+  surname: "Kalenscher"
+  title: "Governing Board"
+  thumbnailUrl: tobis.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  #ribbon: 
+  #  - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "github", link: "http://www.neurosciences-duesseldorf.de/principal-investigators-and-junior-researchers/tobias-kalenscher.html"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "龚栩/Xu"
+  surname: "Gong"
+  title: "Governing Board"
+  thumbnailUrl: Null.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  #ribbon: 
+  #  - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: "https://twitter.com/xuxugong"}
+    - {name: "site", link: "https://www.ru.nl/english/people/gong-x/"}
+- 
+  id: 3
+  name: "胡悦/Yue"
+  surname: "Hu"
+  title: "Governing Board"
+  thumbnailUrl: Null.png
+  team: true
+  #ribbon: 
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "site", link: "https://www.researchgate.net/profile/Yue_Hu47"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "滕相斌/Xiangbin"
+  surname: "Teng"
+  title: "Governing Board, Program Committee"
+  thumbnailUrl: Xiangbin.png
+  team: true
+  #ribbon: 
+  #  - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "site", link: "https://www.aesthetics.mpg.de/en/the-institute/people/xiangbin-teng.html"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 5
+  name: "胡传鹏/Chuanpeng"
+  surname: "Hu"
+  title: "Governing Board"
+  thumbnailUrl: chuanpeng.jpg
+  team: true
+  #ribbon: 
+  #  - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/hcp4715"}
+    - {name: "site", link: "http://www.huchuanpeng.com/"}
+- 
+  id: 6
+  name: "孔祥祯/Xiangzhen"
+  surname: "Kong"
+  title: "Governing Board, Program Committee"
+  thumbnailUrl: XiangzhenKong.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/xiangzhenkong"}
+    - {name: "github", link: "https://github.com/Conxz"}
+    - {name: "site", link: "http://conxz.net/"}
+
+- 
+  id: 100
+  name: "滕相斌/Xiangbin"
+  surname: "Teng"
+  title: "Governing Board, Program Committee"
+  thumbnailUrl: Xiangbin.png
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "https://www.aesthetics.mpg.de/en/the-institute/people/xiangbin-teng.html"}
+- 
+  id: 101
+  name: "孔祥祯/Xiangzhen"
+  surname: "Kong"
+  title: "Governing Board, Program Committee"
+  thumbnailUrl: Xiangzhen.jpg
+  subTeam: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/xiangzhenkong"}
+    - {name: "github", link: "https://github.com/Conxz"}
+    - {name: "site", link: "http://conxz.net/"}
+    - {name: "weibo", link: "https://www.weibo.com/kongxz/"}
+- 
+  id: 102
+  name: "龚栩/Xu"
+  surname: "Gong"
+  title: "Governing Board, Program Committee"
+  thumbnailUrl: Null.png
+  subTeam: true
+  social: 
+    - {name: "site", link: "https://www.ru.nl/english/people/gong-x/"}
+- 
+  id: 103
+  name: "刘威/Wei"
+  surname: "Liu"
+  title: "#"
+  thumbnailUrl: weiliu.png
+  subTeam: true
+  social: 
+    - {name: "site", link: "https://www.ru.nl/english/people/liu-w/"}
+- 
+  id: 104
+  name: "何涛/Tao"
+  surname: "He"
+  title: "#"
+  thumbnailUrl: taohe.png
+  subTeam: true
+  social: 
+    - {name: "site", link: "https://www.ru.nl/english/people/he-t/"}
+- 
+  id: 105
+  name: "左培颖/Peiying"
+  surname: "Zuo"
+  title: "#"
+  thumbnailUrl: Null.png
+  subTeam: true
+  social: 
+    - {name: "site", link: "https://www.researchgate.net/profile/Peiying_Zuo2"}
+- 
+  id: 106
+  name: "谷晓静/Xiaojing"
+  surname: "Gu"
+  title: "#"
+  thumbnailUrl: xiaojing_gu.jpg
+  subTeam: true
+  social: 
+    - {name: "site", link: "https://www.ru.nl/bsi/research/research-programmes/behaviour-change-well-being/abstracts-phd-students-bcw/gu-xiaoging/"}
