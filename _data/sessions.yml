@@ -57,3 +57,13 @@
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 9999
+  title: "Test: TBD"
+  description: "Descritpion TBD."
+  subtype: keynote
+  speakers: [200, 201, 202, 203, 204, 205, 206]
+  #language: en
+  #complexity: "Expert"
+  presentation: "https://#"
+  video: "//www.youtube.com/embed/8DxOwFmYonk"
