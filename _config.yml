@@ -203,7 +203,7 @@ blogCommentsEnabled: true
 discusShortName: "CAPBS"
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 
 # Team Block
 teamBlockTitle: "关于我们/About us"
