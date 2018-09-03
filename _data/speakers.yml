@@ -96,7 +96,7 @@
   surname: "You"
   company: "???"
   title: "???"
-  bio: "<p>To become a speaker, please submit your abstract <a href="https://goo.gl/2Xgruc">Here</a></p>"
+  bio: '<p>To become a speaker, please submit your abstract <a href="https://goo.gl/2Xgruc">Here</a>.</p>'
   thumbnailUrl: You.jpg
   rockstar: true
   social: 
