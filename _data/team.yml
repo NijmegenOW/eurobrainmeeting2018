@@ -38,11 +38,12 @@
   name: "胡悦/Yue"
   surname: "Hu"
   title: "Governing Board"
-  thumbnailUrl: Null.png
+  thumbnailUrl: YueHu.png
   team: true
   #ribbon: 
   #  - {abbr: "GDG", title: "Google Developer Group"}
   social: 
+    - {name: "twitter", link: "https://twitter.com/YueHu_"}
     - {name: "site", link: "https://www.researchgate.net/profile/Yue_Hu47"}
 - 
   id: 4
@@ -54,6 +55,7 @@
   #ribbon: 
   #  - {abbr: "GDG", title: "Google Developer Group"}
   social: 
+    - {name: "twitter", link: "https://twitter.com/TengXB"}
     - {name: "site", link: "https://www.aesthetics.mpg.de/en/the-institute/people/xiangbin-teng.html"}
 - 
   id: 5

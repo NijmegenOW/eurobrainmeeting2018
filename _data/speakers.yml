@@ -26,10 +26,10 @@
   id: 202
   name: "彭聪"
   surname: "Cong Peng"
-  company: "TBD"
-  title: "TBD"
-  bio: "bio TBD"
-  thumbnailUrl: Null.png
+  company: "Tilburg University"
+  title: "PhD Student"
+  bio: ""
+  thumbnailUrl: PengCong.jpeg
   rockstar: true
   #ribbon: 
   #  - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -68,8 +68,8 @@
   id: 205
   name: "宋玥"
   surname: "Yue Song"
-  company: "Utrecht"
-  title: "TBD"
+  company: "Developmental Psychology, Utrecht University"
+  title: "PhD Student"
   bio: "TBD"
   thumbnailUrl: Null.png
   rockstar: true

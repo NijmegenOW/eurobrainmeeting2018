@@ -20,23 +20,23 @@
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Happy little benefactor: Prosocial behaviors promotes happiness in toddlers"
+  description: "The origin of prosocial behavior has long been debated.  Over the past decade, evidence that toddlers display more happiness when sharing rather than receiving treats has been used to support the argument that humans, by nature, are prosocial. However, sharing is rare and inconsistent at this age, implying that the emotional rewards of sharing might have their origins or be affected by social factors, such as praise. In addition, whether this “warm glow” is specific for sharing behavior, or also the case for other prosocial behaviors (e.g., helping and comforting) is unclear. By replicating (using the same task) and extending previous studies (varying the number of resources and examining praise),  113 Dutch toddlers (M = 21.64 months, SD = 3.33 months, 59 boys) participated in a sharing task in which they received 8, 4 or 2 treats, followed by instrumental helping and comforting tasks (for the latter two tasks the toddlers were praised if they helped or comforted).  Toddlers were videotaped during the experiment and happiness later coded. In total, 79 toddlers at least shared, helped or comforted once in the experiment. For these children, results showed that: (1) for sharing, consistent with previous findings, toddlers display more happiness when giving than receiving treats, although the number of resources did not affect toddlers’ happiness. (2) for instrumental helping, toddlers displayed more happiness after helping, and their happiness did not increase after been rewarded (praised). (3) for comforting, toddlers displayed less happiness after witnessing experimenter’s emotional distress (feeling cold), but not more happiness after helping or being praised. Taken together, these results indicate that both sharing and instrumental helping are emotionally rewarding independent of praise, supporting a  biological origin of these behaviors."
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [205]
+  #language: en
+  #complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Money is sweet when it says I love you"
+  description: "Money is not appreciated as a gift, partly because money lacks social meanings that express care to the receiver. We tested an idea that money can turn to be acceptable when its amount signals a social meaning. Specifically, Study 1 showed that Chinese appreciate 520RMB cash more than both 500RMB and 550RMB as a Valentine’s Day gift, when 520 means I Love You in Chinese. In Study 2 we found that Chinese receivers chose 520RMB over 530RMB as a birthday gift. This preference for a lower but meaningful amount is particularly salient when it comes from close others."
   subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: [202]
+  #language: en
+  #complexity: "Intermediate" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"
