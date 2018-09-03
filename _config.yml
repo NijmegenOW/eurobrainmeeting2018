@@ -62,7 +62,7 @@ heroTitleCN2: "暨 第二届52brain欧洲学术沙龙"
 eventRegion: "Europe"
 eventCity: "Nijmegen, Netherlands"
 eventDate: "October 20-21, 2018"
-typeoutTextValues: '"", "Netherlands", "China", "Germany"'
+typeoutTextValues: '"", "Netherlands", "China", "Germany","Belgium","France","UK"'
 typeoutFallback: "Netherlands"
 heroButtons:
  - {link: "https://goo.gl/2Xgruc", text: "Become a speaker"}
