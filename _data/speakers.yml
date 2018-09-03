@@ -92,12 +92,15 @@
   #  - {name: "site", link: "https://www.mpi.nl/people/tan-yingying"}
 - 
   id: 3
-  name: "Test"
-  surname: "Test"
-  company: "Test"
-  title: "Test"
-  bio: "Test."
-  thumbnailUrl: Null.png
-  rockstar: 
+  name: "Just"
+  surname: "You"
+  company: "???"
+  title: "???"
+  bio: "???"
+  thumbnailUrl: You.jpg
+  rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "google-plus", link: "https://#"}
+    - {name: "twitter", link: "https://#"}
+    - {name: "github", link: "https://#"}
+    - {name: "weibo", link: "https://#"}
