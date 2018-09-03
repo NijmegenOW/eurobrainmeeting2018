@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://goo.gl/2Xgruc"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/CABPS_Info_v1.pdf"
 
 
 # Navigation
@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Chinese Association for Psychological & Brain Sciences <typeout> 2018 Meeting"
 heroTitleCN: "欧洲华人心理与脑科学会议"
-heroTitleCN2: "暨 第二届52brain欧洲沙龙"
+heroTitleCN2: "暨 第二届52brain欧洲学术沙龙"
 eventRegion: "Europe"
 eventCity: "Nijmegen, Netherlands"
 eventDate: "October 20-21, 2018"
