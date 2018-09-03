@@ -5,7 +5,7 @@
   company: "aff TBD"
   title: "title TBD"
   bio: "bio TBD"
-  thumbnailUrl: Null.png
+  thumbnailUrl: Null2.png
   rockstar: true
   social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
@@ -16,7 +16,7 @@
   company: "VU"
   title: "title TBD"
   bio: '<p>bio TBD <a href="http://#">Link</a>. </p>'
-  thumbnailUrl: Null.png
+  thumbnailUrl: Null2.png
   rockstar: true
   social: 
   #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -44,7 +44,7 @@
   company: "TBD"
   title: "TBD"
   bio: "TBD"
-  thumbnailUrl: Null.png
+  thumbnailUrl: Null2.png
   rockstar: true
   ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -71,7 +71,7 @@
   company: "Developmental Psychology, Utrecht University"
   title: "PhD Student"
   bio: "TBD"
-  thumbnailUrl: Null.png
+  thumbnailUrl: Null2.png
   rockstar: true
   #ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -84,7 +84,7 @@
   company: "University van Amsterdam"
   title: "TBD"
   bio: "anxiety & reinforcement learning"
-  thumbnailUrl: Null.png
+  thumbnailUrl: Null2.png
   rockstar: true
   #ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}

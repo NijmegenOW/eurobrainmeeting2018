@@ -60,9 +60,9 @@
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 9999
-  title: "Test: TBD"
+  title: "TBD"
   description: "Descritpion TBD."
-  subtype: keynote
+  subtype: presentation
   speakers: [200, 201, 203, 204, 206]
   #language: en
   #complexity: "Expert"
