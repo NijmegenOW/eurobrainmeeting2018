@@ -97,7 +97,7 @@
   company: "Test"
   title: "Test"
   bio: "Test."
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: Null.png
   rockstar: 
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
