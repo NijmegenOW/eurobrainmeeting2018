@@ -63,7 +63,7 @@
   title: "Test: TBD"
   description: "Descritpion TBD."
   subtype: keynote
-  speakers: [200, 201, 202, 203, 204, 205, 206]
+  speakers: [200, 201, 203, 204, 205, 206]
   #language: en
   #complexity: "Expert"
   presentation: "https://#"
