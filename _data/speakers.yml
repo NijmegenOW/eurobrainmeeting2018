@@ -98,6 +98,6 @@
   title: "Test"
   bio: "Test."
   thumbnailUrl: DawidOstrowski.jpg
-  rockstar: true
+  rockstar: 
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}

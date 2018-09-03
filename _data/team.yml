@@ -15,7 +15,7 @@
   surname: "Kalenscher"
   title: "Governing Board"
   thumbnailUrl: tobias.jpeg
-  team: true
+  team: 
   #ribbon: 
   #  - {abbr: "GDG", title: "Google Developer Group"}
   social: 
