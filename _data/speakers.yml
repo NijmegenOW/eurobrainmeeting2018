@@ -6,7 +6,7 @@
   title: "title TBD"
   bio: "bio TBD"
   thumbnailUrl: Null2.png
-  rockstar: true
+  rockstar: 
   social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
@@ -17,7 +17,7 @@
   title: "title TBD"
   bio: '<p>bio TBD <a href="http://#">Link</a>. </p>'
   thumbnailUrl: Null2.png
-  rockstar: true
+  rockstar: 
   social: 
   #  - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
   #  - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
@@ -45,7 +45,7 @@
   title: "TBD"
   bio: "TBD"
   thumbnailUrl: Null2.png
-  rockstar: true
+  rockstar: 
   ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -85,6 +85,19 @@
   title: "TBD"
   bio: "anxiety & reinforcement learning"
   thumbnailUrl: Null2.png
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+  #  - {name: "site", link: "https://www.mpi.nl/people/tan-yingying"}
+- 
+  id: 207
+  name: "魏永斌"
+  surname: "Yongbin Wei"
+  company: "Complex Traits Genetics, CNCR, VU Amsterdam"
+  title: "PhD Student"
+  bio: "Since December 2015, I'm a PhD student in the Dutch Connectome Lab. I obtained my bachelor degree in Electronic and Information Engineering at Beihang University (former BUAA) and my master degree in Computer Science and Application at Beijing Normal University. During the master program, I did some work on the brain functional connectome and became interested in exploring the mysterious world in our brains.<br> Now I mainly focus on exploring new analytical methods for neuroimaging data and connectomics. Based on my technical background, I hope to make contributions to unravel neural mechanisms by studying macroscale structural and functional connectivity. I also hope to develop new methods that promote better understanding of the pathology in psychiatric disease and could aid the development of potential biomarkers."
+  thumbnailUrl: YongbinWei.png
   rockstar: true
   #ribbon:
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
