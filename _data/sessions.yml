@@ -18,7 +18,7 @@
   presentation: "https://nijmegenow.github.io/eurobrainmeeting2018/blog/call-for-speakers"
   #language: en
   #complexity: "Intermediate"
-  #video: "//www.youtube.com/embed/8DxOwFmYonk"
+  video: "//www.youtube.com/embed/8DxOwFmYonk"
 -
   id: 002
   title: "Happy little benefactor: Prosocial behaviors promotes happiness in toddlers"
@@ -66,5 +66,5 @@
   speakers: [200, 201, 203, 204, 206]
   #language: en
   #complexity: "Expert"
-  presentation: "https://#"
-  video: "//www.youtube.com/embed/8DxOwFmYonk"
+  #presentation: "https://#"
+  #video: "//www.youtube.com/embed/8DxOwFmYonk"
