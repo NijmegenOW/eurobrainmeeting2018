@@ -11,7 +11,7 @@ to serve you for research life in psychological & brain sciences.
 
 This year event will take place in summer capital of Netherlands - Nijmegen, a city situated on the Waal river, close to German border. 
 Nijmegen is the oldest city in the Netherlands, the first to be recognized as such in Roman times, and in 2005 celebrated 2,000 years of existence.
-Today Nijmegen is thriving, largely because of its lively student population and its status as a hub for poltical activism. 
+Today Nijmegen is thriving, largely because of its lively student population and its status as a hub for political activism. 
 
 So should you also be excited? Well yes... and here's why!
 
