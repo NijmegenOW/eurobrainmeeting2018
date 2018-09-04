@@ -40,7 +40,7 @@ Below are the topics the program committee renders potentially interestiing to t
 * Imaging genetics
 * ...
 
-#### Please submit your abstract [here]("https://goo.gl/2Xgruc").
+#### Please submit your abstract [here](https://goo.gl/2Xgruc).
 __Deadline__ is September 25, 2014
 
 __Please note:__ There is no guarantee that a submission will be put onto the meeting agenda!<br/>
