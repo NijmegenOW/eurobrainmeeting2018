@@ -2,13 +2,14 @@
   id: 200
   name: "耿海洋"
   surname: "Haiyang Geng"
-  company: "aff TBD"
-  title: "title TBD"
-  bio: "bio TBD"
+  company: "University Medical Center Groningen"
+  title: "PhD Student"
+  bio: "TBD"
   thumbnailUrl: Null2.png
   rockstar: 
   social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100014537325992"}
+    - {name: "twitter", link: "https://twitter.com/HaiyangGeng"}
 - 
   id: 201
   name: "王本驰"
@@ -103,6 +104,20 @@
   #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
   #  - {name: "site", link: "https://www.mpi.nl/people/tan-yingying"}
+- 
+  id: 208
+  name: "左西年"
+  surname: "Xinian Zuo"
+  company: "中科院心理所"
+  title: "Professor"
+  bio: ""
+  thumbnailUrl: Null2.png
+  rockstar: true
+  #ribbon:
+  #  - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/zuoxinian"}
+    - {name: "site", link: "http://zuolab.psych.ac.cn/"}
 - 
   id: 3
   name: "Just"

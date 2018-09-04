@@ -50,20 +50,20 @@
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "A dynamic brain network model of interaction between emotion processing and executive function"
+  description: "Emotion processing and executive function serve as two crucial cognitive aspects, they interact and influence each other like the south and north pole in the Tai Chi framework. However, it remains largely unknown about what dynamic brain networks support flexible emotion processing and executive function such as working memory, especially interaction between them. Separate activation in amygdala and prefrontal cortex have been long thought to contribute to these processes. However, emerging dynamic brain network studies have begun to examine how dynamics of brain networks support flexible emotion processing, executive function and interaction between them. Focusing on this central issue, in several imaging studies, we used the ‘state of the art’ resting- and task-state fMRI connectivity and network-based approaches, seeking to build a dynamic brain network model of how emotion is processed and how emotion impacts cognitive computations in working memory. Our series of results indicate that dynamic interaction between the salience network (SN), the executive control network (ECN), the default mode network (DMN) and sensory networks enables dynamic representation of emotion (i.e. anxiety and stress) and supports flexible cognitive computation in WM and their dynamic interaction. Previous influential studies suggest that neural oscillation across multiple bands and locus coeruleus (LC)-norepinephrine (NE) neuromodulator serve as potential mechanisms underlying dynamic signal synergy among brain networks, further enable flexible interaction between emotion processing and executive function. Taken together, human brain is a highly complex and dynamic machine, which supports a number of flexible and sophisticated functions including emotion processing and executive functions. Our findings point out a dynamic brain network model, which will shed a light on understanding how complex dynamic brain systems empower flexible cognitive functions."
+  subtype: presentation
+  speakers: [200]
+  #language: en
+  #complexity: "Expert"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 9999
   title: "TBD"
   description: "Descritpion TBD."
   subtype: presentation
-  speakers: [200, 201, 203, 204, 206]
+  speakers: [201, 203, 204, 206, 208]
   #language: en
   #complexity: "Expert"
   #presentation: "https://#"
