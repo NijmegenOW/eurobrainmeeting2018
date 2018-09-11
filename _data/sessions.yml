@@ -40,7 +40,7 @@
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Multiscale Brain Connetome"
+  title: "Multiscale perspectives of human brain connectome"
   description: "TBD."
   subtype: presentation
   speakers: [207]
@@ -59,11 +59,17 @@
   #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
+  id: 006
+  title: "Catecholaminergic modulation of the semantic processing in sentence comprehension"
+  description: "Catecholamine (CA) neurotransmitters (e.g., dopamine) have long been implicated playing a critical role in executive control and decision making. Recently, evidence from neurodegenerative patients and healthy population suggested that CA also modulates language processing. However, the question of what kind of influence the CA might exert on language is still open. My recent study investigated this question by examining the effects of methylphenidate (MPH), which is a CA agonist, on EEG response related to language processing. The results demonstrated a clear neuropharmacological effect that CA neurotransmitters provide a relevance signal that enhances semantic integration operations, regardless of whether language processing is goal-relevant or not. The Basal Ganglia projections to Frontal Cortex might mediate the language processing effects of these neuropharmacological agents. These results contradicted the general hypothesis that CA promotes goal-relevant processes, while inhibiting goal-irrelevant information, suggesting that our capacity for language is a core system rooted in our biological system."
+  subtype: presentation
+  speakers: [204]
+-
   id: 9999
   title: "TBD"
   description: "Descritpion TBD."
   subtype: presentation
-  speakers: [201, 203, 204, 206, 208]
+  speakers: [201, 203, 206, 208]
   #language: en
   #complexity: "Expert"
   #presentation: "https://#"
