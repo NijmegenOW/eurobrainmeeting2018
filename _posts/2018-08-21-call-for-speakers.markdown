@@ -41,7 +41,7 @@ Below are the topics the program committee renders potentially interestiing to t
 * ...
 
 #### Please submit your abstract [here](https://goo.gl/2Xgruc).
-__Deadline__ is September 25, 2014
+__Deadline__ is September 25, 2018
 
 __Please note:__ There is no guarantee that a submission will be put onto the meeting agenda!<br/>
 
