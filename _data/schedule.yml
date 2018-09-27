@@ -13,9 +13,9 @@
   date: "2018-10-21"
   dateReadable: "October 21"
   tracks: 
-    - {title: "Social Science", color: "#90be4e"}
-    - {title: "Cognitive Neuroscience", color: "#03a9f4"}
-    - {title: "Advanced Methodology", color: "#e91e63"}
+    - {title: "Social Science & Cognitive Neuroscience & Advanced Methodology", color: "#90be4e"}
+    #- {title: "Cognitive Neuroscience", color: "#03a9f4"}
+    #- {title: "Advanced Methodology", color: "#e91e63"}
   timeslots: 
     - {
     	startTime: "9:00",
@@ -25,22 +25,26 @@
     - {
     	startTime: "9:10",
     	endTime: "9:30",
-    	sessionIds: [003,404, 404]
+    	sessionIds: [003]
+			#,404, 404]
     }
     - {
     	startTime: "9:30",
     	endTime: "9:50",
-    	sessionIds: [007,404, 404]
+    	sessionIds: [007]
+			#,404, 404]
     }
     - {
     	startTime: "9:50",
     	endTime: "10:10",
-    	sessionIds: [013,404, 404]
+    	sessionIds: [013]
+			#,404, 404]
     }
     - {
     	startTime: "10:10",
     	endTime: "10:30",
-    	sessionIds: [212,404, 404]
+    	sessionIds: [212]
+			#,404, 404]
     }
     - {
     	startTime: "10:30",
@@ -50,22 +54,26 @@
     - {
     	startTime: "10:45",
     	endTime: "11:05",
-    	sessionIds: [404,006, 404]
+    	sessionIds: [006]
+			#sessionIds: [404,006, 404]
     }
     - {
     	startTime: "11:05",
     	endTime: "11:25",
-    	sessionIds: [404,008, 404]
+    	sessionIds: [008]
+			#sessionIds: [404,008, 404]
     }
     - {
     	startTime: "11:25",
     	endTime: "11:45",
-    	sessionIds: [404,009, 404]
+    	sessionIds: [009]
+			#sessionIds: [404,009, 404]
     }
     - {
     	startTime: "11:45",
     	endTime: "12:05",
-    	sessionIds: [404,011, 404]
+    	sessionIds: [011]
+			#sessionIds: [404,011, 404]
     }
     - {
     	startTime: "12:05",
@@ -75,22 +83,26 @@
     - {
     	startTime: "13:35",
     	endTime: "13:55",
-    	sessionIds: [404,004]
+    	sessionIds: [004]
+			#sessionIds: [404,004]
     }
     - {
     	startTime: "13:55",
     	endTime: "14:15",
-    	sessionIds: [404,404,010]
+    	sessionIds: [010]
+			#sessionIds: [404,404,010]
     }
     - {
     	startTime: "14:15",
     	endTime: "14:35",
-    	sessionIds: [404,404,012]
+    	sessionIds: [012]
+			#sessionIds: [404,404,012]
     }
     - {
     	startTime: "14:35",
     	endTime: "14:55",
-    	sessionIds: [404,005]
+    	#sessionIds: [404,005]
+			sessionIds: [005]
     }
     - {
     	startTime: "14:55",
