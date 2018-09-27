@@ -5,9 +5,32 @@
   service: true
   description: "The best time to talk with speakers and attendees"
 -
+  id: 301
+  title: "Opening"
+  place: "TBD"
+  service: true
+  description: "Opening"
+-
+  id: 302
+  title: "Closing"
+  place: "TBD"
+  service: true
+  description: "Closing"
+-
+  id: 303
+  title: "FAQ"
+  place: "TBD"
+  service: true
+  description: "FAQ"
+-
   id: 503
   title: "Lunch Break"
   place: "Dining room"
+  service: true
+-
+  id: 504
+  title: "Dinner"
+  place: "TBD"
   service: true
 -
   id: 001
@@ -64,6 +87,54 @@
   description: "Catecholamine (CA) neurotransmitters (e.g., dopamine) have long been implicated playing a critical role in executive control and decision making. Recently, evidence from neurodegenerative patients and healthy population suggested that CA also modulates language processing. However, the question of what kind of influence the CA might exert on language is still open. My recent study investigated this question by examining the effects of methylphenidate (MPH), which is a CA agonist, on EEG response related to language processing. The results demonstrated a clear neuropharmacological effect that CA neurotransmitters provide a relevance signal that enhances semantic integration operations, regardless of whether language processing is goal-relevant or not. The Basal Ganglia projections to Frontal Cortex might mediate the language processing effects of these neuropharmacological agents. These results contradicted the general hypothesis that CA promotes goal-relevant processes, while inhibiting goal-irrelevant information, suggesting that our capacity for language is a core system rooted in our biological system."
   subtype: presentation
   speakers: [204]
+-
+  id: 007
+  title: "Offering Support or Making It Worse: The power of prosocial behavior in classroom context"
+  description: "Bullying-victimization by classroom peers is a common and significant stressor for adolescents and increases their risk of developing adjustment problems, especially depressive symptoms. Some studies have found victimsâ€™ social surrounding may modify the association between relational victimization and depression. However, contradictory proposes might be inferred from different theories in terms of influences of prosocial beahvior in classroom context. According to the social support theory, a friendly and prosocial environment could offer more opportunities of making social ties and compensate the interpersonal connection deprived by relational victimization. In contrast, the social comparison theory suggests an opposite effect, that prosocial context might aggravate the adverse effect of stressful interpersonal experience.<br>The present study examined the two competitive theoretical suggestions about the effect of a prosocial classroom context. More specifically, it investigated the role of classroom prosociality in the developmental association between childrenâ€™s relational victimization experiences and their depressive symptoms. We used a short-term longitudinal framework, by following 327 pre-adolescents (45.6% boys; Mage = 10.23, SDage = 0.49 at baseline) for one and a half years with 6-month intervals from grade five to grade six. A multilevel (individual level and class level) cross-lagged model was used with classroom prosociality as the moderator on individual level cross-lagged paths from relational victimization to depressive symptoms.<br>Our results supported the social comparison theory. We found that classroom prosociality aggregated the adverse effect of relational victimization. pecifically, in classes with a high level of prosociality, relationally victimized adolescents were likely to develop depressive symptoms. On the contrary, in classes with a low level of prosociality, the relationally victimized adolescents were less likely to develop depressive symptoms. Our findings suggest that the positive classroom context provides a contrasting background for personal stressful social experience, instead of social support."
+  subtype: presentation
+  speakers: [211]
+-
+  id: 008
+  title: "Statistical regularities drive visual selection"
+  description: "Humans are constantly bombarded by streams of sensory information. Selective attention determines what we attend and what ignore. Traditionally, it was thought that what we attend was determined by our top-down goals and the physical characteristics of the environment. Recently however, it was pointed out that this conceptualisation may be incomplete as selection is likely to be the result our experiences, i.e., the history of attentional deployments can elicit lingering selection biases, unrelated to top-down goals or the physical salience of items. Invariant properties of the visual environment can bias attention such that we are able to interact more effectively with the visual world. Previous studies have shown that the efficiency of selecting the target can be improved when the target consistently appears at specific locations in the display (e.g., contextual cueing). This is not surprising as the target is relevant for the task and it is known that attention can be directed to locations in space. In this talk, however, I will specifically focus on how statistical regularities regarding items that are not relevant for the task (i.e., distractors) affect selection. We show that through statistical learning, locations that are likely to contain distractors are suppressed relative to all other locations. These statistical regularities drive selection above and beyond top-down and bottom-up control and operate without people being aware of them. We argue that statistical learning induces plasticity in time and place within the spatial priority map such that locations that are likely to contain a target are boosted and locations that are likely to contain a distractor are suppressed. It reflects our ability to extract the distributional properties of sensory input across time and space; one of the most crucial human abilities that plays a role in essentially everything we do."
+  subtype: presentation
+  speakers: [201]
+-
+  id: 009
+  title: "Goal Coordination in Grasping Planning: An ERP Study"
+  description: "Action goals in psychological studies are often confused with the result of a single movement, such as reaching or button pressing. However, hand-object interactions are not restricted to a single movement towards the object, but also using the object to accomplish a subsequent goal. Most of the previous studies only used the entire goal (both immediate grip demand and final task goal) and the coordination of the different parts of the action goal is still unclear. In the present study, the cognitive mechanism of immediate and final action goals in planning grasping movement was investigated with the help of the ERP. 28 Participants were asked to perform either free choice or specified grips and rotate a handle to the given target positions based on the cues. The two cues were shown in different sequences which were consisted by the separately presented cues “how to grip” (immediate) and “where to rotate” (final) in the order of immediate-final or final-immediate. The results indicated that neural activity differed between free and specified actions. Final action goal seems more important than grip posture in the preparation of grasping movement."
+  subtype: presentation
+  speakers: [203]
+-
+  id: 010
+  title: "Regulation of inhibitory bouton dynamics by endocannabinoid signaling"
+  description: "Functional neural circuits in the brain require specific connections and coordinated activity of synapses. When this coordination is disrupted, neurological diseases, such as autism, can develop. The ongoing of structural and functional organization of synapses is crucial for maintaining healthy and functional neural networks. These processes are widely investigated in excitatory synapse and great progress was made in the past decades in improving our understanding of the molecular and physiological mechanisms of synapse plasticity. However, the molecular processes underlying inhibitory synaptic plasticity are not well known. <br>In this study, we examine how presynaptic plasticity in inhibitory axons is regulated by endocannabinoid signaling. We visualize presynaptic boutons in GFP -labeled axons using two-photon live imaging in organotypic hippocampal slice cultures from GAD65-GFP transgenic mice. We found that transient activation of endocannabinoid type 1 receptor (CB1R) affects inhibitory bouton dynamics, but surprisingly we observed that the effect was different when CB1R was activated by the synthetic agonist WIN 55212-2 or by endogenous ligand 2-AG. Our results suggest that interaction kinetics between ligand and CB1R are important to trigger specific downstream signaling pathways that inhibitory axonal plasticity is regulated by non-canonical endocannabinoid signaling"
+  subtype: presentation
+  speakers: [210]
+-
+  id: 011
+  title: "Behavioral and neuroimaging evidences of information integration"
+  description: "Belief-updating is important to make appropriate decisions. However, the usage of prior knowledge and current information for updating might be altered by many factors, such as quantity of current information and emotional state. In this talk, I will focus on my first study that investigated how various quantities of current information is integrated with prior knowledge. To address this issue, the reward information is associated with the probability of occurrence and the size of current information was systematically manipulated trial-by-trial. At behavioral level, we found subjects flexibly adjusted the weights assigned to prior knowledge and current information as predicted by the Bayesian model. At neural level, fMRI results indicated medial prefrontal cortex (mPFC) involved in information integration. Interestingly, the activation in mPFC also represented the relative weights assignment for these two sources of information (Ting et al., 2015)."
+  subtype: presentation
+  speakers: [206]
+-
+  id: 012
+  title: "Latent classes of dementia progression across two different cohorts"
+  description: "BACKGROUND<br>Considerable heterogeneity of dementia progression in cognition and daily functioning exists both between and within individuals. To date, only a limited number of studies have worked on the trajectories of dementia progression, let alone studying multiple outcomes simultaneously. Therefore, this study aimed at replicating latent classes of both cognitive and functional progression in dementia.<br>METHODS <br>We included 331 subjects from the Dutch Clinical Course of Cognition and Comorbidity (4C) study, and 1628 subjects from American National Alzheimerâ€™s Coordinating Center in our study. All subjects were incident dementia cases and both cohorts were analyzed separately. Cognitive and functional decline was modelled jointly using a parallel-process growth mixture model.<br>RESULTS <br>In each cohort, 3 classes of trajectories for cognition and daily functioning were identified. 30% of the participants from the Dutch cohort and 26% from the American cohort showed slow and stable decline in both cognition and daily functioning. The largest group in both cohorts (44% in the Dutch cohort and 67% in the American cohort) exhibited a slightly faster cognitive decline and poor daily functioning at diagnosis as well as a rapid decline. The remaining patients showed rapid decline in both cognition and daily functioning; 26% of the participants in the Dutch cohort and 7% of the American cohort. The decline of cognition and functioning exhibited a low correlation in both cohorts.<br> CONCLUSIONS <br>This study identified 3 classes with similar trajectories of cognitive and functional decline in two different cohorts. A discrepancy between cognitive and functional decline was found in both cohorts, highlighting the importance of considering both domains in clinical practice as well as future research."
+  subtype: presentation
+  speakers: [209]
+-
+  id: 013
+  title: "Shy children's empathy and prosocial behavior in the chaotic family"
+  description: "This study aims at examining the relations between children's shyness in toddlerhood and their empathy and prosocial behavior at preschool age. Specifically, the family environment and family setting in early years are highlighted and tested as predictors and moderators of those developmental relations. Data from a 7-wave longitudinal study (Beijing Longitudinal Study 2010) were analyzed and reported. Children's shyness is composed of mother-reported measurements at 14 (W3) and 25 (W4) months and the observational assessment at 38 (W5) months. Empathy and prosocial behavior were coded from two \"pretend-to-hurt\" paradigms at 60 months (W6). In addition, mothers reported maternal time and paternal time from 9 (W2) to 60 (W6) months, which are used as an indicator of family setting in early years. Besides, mothers rated family chaos on the subscale of family organization in HOME at 6 (W1) and 25 (W4) months, which are used as the indicator of family environment in toddlerhood. Mothers also rated family environment on CHAOS questionnaire at 38 (W5) and 60 (W6) months, which are tested for its role as family environment in preschool years in children's development of empathy and prosocial behavior. In this study, we focus on the following research questions: 1) How does young children's shyness relate to their empathy and prosocial behavior later at preschool age? 2) How does family setting (indexed by maternal time and paternal time) relate to preschoolers' empathy and prosocial behavior? 3) How does family environment relate to preschoolers' empathy and prosocial behavior? 4) Do person (shyness) x environment (family setting and family environment) transactions predict preschoolers' empathy and prosocial behavior?"
+  subtype: presentation
+  speakers: [212]
+-
+  id: 014
+  title: "Keynote"
+  description: "TBD"
+  subtype: keynote
+  speakers: [208]
 -
   id: 9999
   title: "TBD"

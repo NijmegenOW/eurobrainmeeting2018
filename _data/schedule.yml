@@ -2,49 +2,113 @@
   date: "2018-10-20"
   dateReadable: "October 20"
   tracks: 
-    - {title: "Topic 1", color: "#90be4e"}
-    - {title: "Topic 2", color: "#03a9f4"}
-    - {title: "Topic 3", color: "#e91e63"}
+    - {title: "Dinner", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
-    }
-    - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+    	startTime: "18:00",
+    	endTime: "21:00",
+    	sessionIds: [504]
     }
 - 
   date: "2018-10-21"
   dateReadable: "October 21"
   tracks: 
-    - {title: "Topic 1", color: "#90be4e"}
-    - {title: "Topic 2", color: "#03a9f4"}
+    - {title: "Social Science", color: "#90be4e"}
+    - {title: "Cognitive Neuroscience", color: "#03a9f4"}
+    - {title: "Advanced Methodology", color: "#e91e63"}
   timeslots: 
     - {
-    	startTime: "10:00",
+    	startTime: "9:00",
+    	endTime: "9:10",
+    	sessionIds: [301]
+    }
+    - {
+    	startTime: "9:10",
+    	endTime: "9:30",
+    	sessionIds: [003,404, 404]
+    }
+    - {
+    	startTime: "9:30",
+    	endTime: "9:50",
+    	sessionIds: [007,404, 404]
+    }
+    - {
+    	startTime: "9:50",
+    	endTime: "10:10",
+    	sessionIds: [013,404, 404]
+    }
+    - {
+    	startTime: "10:10",
+    	endTime: "10:30",
+    	sessionIds: [212,404, 404]
+    }
+    - {
+    	startTime: "10:30",
     	endTime: "10:45",
-    	sessionIds: [404, 002]
+    	sessionIds: [307]
     }
     - {
-    	startTime: "11:00",
+    	startTime: "10:45",
+    	endTime: "11:05",
+    	sessionIds: [404,006, 404]
+    }
+    - {
+    	startTime: "11:05",
+    	endTime: "11:25",
+    	sessionIds: [404,008, 404]
+    }
+    - {
+    	startTime: "11:25",
     	endTime: "11:45",
-    	sessionIds: [002, 003]
+    	sessionIds: [404,009, 404]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+    	startTime: "11:45",
+    	endTime: "12:05",
+    	sessionIds: [404,011, 404]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
+    	startTime: "12:05",
+    	endTime: "13:35",
     	sessionIds: [503]
+    }
+    - {
+    	startTime: "13:35",
+    	endTime: "13:55",
+    	sessionIds: [404,404,004]
+    }
+    - {
+    	startTime: "13:55",
+    	endTime: "14:15",
+    	sessionIds: [404,404,010]
+    }
+    - {
+    	startTime: "14:15",
+    	endTime: "14:35",
+    	sessionIds: [404,404,012]
+    }
+    - {
+    	startTime: "14:35",
+    	endTime: "14:55",
+    	sessionIds: [404,404,005]
+    }
+    - {
+    	startTime: "14:55",
+    	endTime: "15:10",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "15:10",
+    	endTime: "15:40",
+    	sessionIds: [014]
+    }
+    - {
+    	startTime: "15:40",
+    	endTime: "15:55",
+    	sessionIds: [303]
+    }
+    - {
+    	startTime: "15:55",
+    	endTime: "16:00",
+    	sessionIds: [302]
     }

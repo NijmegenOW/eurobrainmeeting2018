@@ -81,7 +81,7 @@
 - 
   id: 206
   name: "丁致中"
-  surname: "Zhizhong Ding"
+  surname: "ChihChung Ting"
   company: "University van Amsterdam"
   title: "TBD"
   bio: "anxiety & reinforcement learning"
@@ -118,6 +118,54 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/zuoxinian"}
     - {name: "site", link: "http://zuolab.psych.ac.cn/"}
+- 
+  id: 209
+  name: "王雨薇"
+  surname: "Yuwei Wang"
+  company: "Radboud Institute for Health Sciences"
+  title: "Master Student"
+  bio: "TBD"
+  thumbnailUrl: Null2.png
+  rockstar: true
+  social: 
+    #- {name: "twitter", link: "https://twitter.com/zuoxinian"}
+    #- {name: "site", link: "http://zuolab.psych.ac.cn/"}
+- 
+  id: 210
+  name: ""
+  surname: "Jian Liang"
+  company: "Utrecht University"
+  title: "PhD Student"
+  bio: "TBD"
+  thumbnailUrl: Null2.png
+  rockstar: true
+  social: 
+    #- {name: "twitter", link: "https://twitter.com/zuoxinian"}
+    #- {name: "site", link: "http://zuolab.psych.ac.cn/"}
+- 
+  id: 211
+  name: "何津"
+  surname: "Jin He"
+  company: "Vrije University Amsterdam"
+  title: "PhD Student"
+  bio: "TBD"
+  thumbnailUrl: Null2.png
+  rockstar: true
+  social: 
+    #- {name: "twitter", link: "https://twitter.com/zuoxinian"}
+    #- {name: "site", link: "http://zuolab.psych.ac.cn/"}
+- 
+  id: 212
+  name: ""
+  surname: "Shuyang Dong"
+  company: "Utrecht University"
+  title: "PhD Student"
+  bio: "TBD"
+  thumbnailUrl: Null2.png
+  rockstar: true
+  social: 
+    #- {name: "twitter", link: "https://twitter.com/zuoxinian"}
+    #- {name: "site", link: "http://zuolab.psych.ac.cn/"}
 - 
   id: 3
   name: "Just"
