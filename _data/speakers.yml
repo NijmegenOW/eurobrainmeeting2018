@@ -132,7 +132,7 @@
     #- {name: "site", link: "http://zuolab.psych.ac.cn/"}
 - 
   id: 210
-  name: ""
+  name: " "
   surname: "Jian Liang"
   company: "Utrecht University"
   title: "PhD Student"
@@ -156,7 +156,7 @@
     #- {name: "site", link: "http://zuolab.psych.ac.cn/"}
 - 
   id: 212
-  name: ""
+  name: " "
   surname: "Shuyang Dong"
   company: "Utrecht University"
   title: "PhD Student"
@@ -166,17 +166,17 @@
   social: 
     #- {name: "twitter", link: "https://twitter.com/zuoxinian"}
     #- {name: "site", link: "http://zuolab.psych.ac.cn/"}
-- 
-  id: 3
-  name: "Just"
-  surname: "You"
-  company: "???"
-  title: "???"
-  bio: '<p>To become a speaker, please submit your abstract <a href="https://goo.gl/2Xgruc">Here</a>.</p>'
-  thumbnailUrl: You.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://#"}
-    - {name: "twitter", link: "https://#"}
-    - {name: "github", link: "https://#"}
-    - {name: "weibo", link: "https://#"}
+#- 
+#  id: 3
+#  name: "Just"
+#  surname: "You"
+#  company: "???"
+#  title: "???"
+#  bio: '<p>To become a speaker, please submit your abstract <a href="https://goo.gl/2Xgruc">Here</a>.</p>'
+#  thumbnailUrl: You.jpg
+#  rockstar: true
+#  social: 
+#    - {name: "google-plus", link: "https://#"}
+#    - {name: "twitter", link: "https://#"}
+#    - {name: "github", link: "https://#"}
+#    - {name: "weibo", link: "https://#"}
