@@ -37,13 +37,13 @@
     - {
     	startTime: "9:50",
     	endTime: "10:10",
-    	sessionIds: [013]
+    	sessionIds: [002]
 			#,404, 404]
     }
     - {
     	startTime: "10:10",
     	endTime: "10:30",
-    	sessionIds: [012]
+    	sessionIds: [013]
 			#,404, 404]
     }
     - {
