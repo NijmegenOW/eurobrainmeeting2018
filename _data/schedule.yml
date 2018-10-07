@@ -26,25 +26,21 @@
     	startTime: "9:30",
     	endTime: "9:50",
     	sessionIds: [002]
-			#,404, 404]
     }
     - {
     	startTime: "9:50",
     	endTime: "10:10",
     	sessionIds: [013]
-			#,404, 404]
     }
     - {
     	startTime: "10:10",
     	endTime: "10:30",
     	sessionIds: [003]
-			#,404, 404]
     }
 		- {
     	startTime: "10:30",
     	endTime: "10:50",
     	sessionIds: [007]
-			#,404, 404]
     }
     - {
     	startTime: "10:50",
