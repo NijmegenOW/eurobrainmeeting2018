@@ -24,12 +24,12 @@
   description: "FAQ"
 -
   id: 503
-  title: "Lunch Break"
+  title: "Lunch Break (自费)"
   place: "Dining room"
   service: true
 -
   id: 504
-  title: "Dinner"
+  title: "Dinner (自费)"
   place: "TBD"
   service: true
 -
@@ -131,7 +131,7 @@
   speakers: [212]
 -
   id: 014
-  title: "Keynote"
+  title: "Keynote: Toward Clinically Usable Human Brain Mapping: How We Get There?"
   description: "TBD"
   subtype: keynote
   speakers: [208]

@@ -18,65 +18,65 @@
     #- {title: "Advanced Methodology", color: "#e91e63"}
   timeslots: 
     - {
-    	startTime: "9:00",
-    	endTime: "9:10",
-    	sessionIds: [301]
-    }
-    - {
-    	startTime: "9:10",
+    	startTime: "9:20",
     	endTime: "9:30",
-    	sessionIds: [003]
-			#,404, 404]
+    	sessionIds: [301]
     }
     - {
     	startTime: "9:30",
     	endTime: "9:50",
-    	sessionIds: [007]
+    	sessionIds: [002]
 			#,404, 404]
     }
     - {
     	startTime: "9:50",
     	endTime: "10:10",
-    	sessionIds: [002]
+    	sessionIds: [013]
 			#,404, 404]
     }
     - {
     	startTime: "10:10",
     	endTime: "10:30",
-    	sessionIds: [013]
+    	sessionIds: [003]
+			#,404, 404]
+    }
+		- {
+    	startTime: "10:30",
+    	endTime: "10:50",
+    	sessionIds: [007]
 			#,404, 404]
     }
     - {
-    	startTime: "10:30",
-    	endTime: "10:45",
+    	startTime: "10:50",
+    	endTime: "11:00",
     	sessionIds: [307]
     }
     - {
-    	startTime: "10:45",
-    	endTime: "11:05",
+    	startTime: "11:00",
+    	endTime: "11:20",
     	sessionIds: [006]
 			#sessionIds: [404,006, 404]
     }
     - {
-    	startTime: "11:05",
-    	endTime: "11:25",
+    	startTime: "11:20",
+    	endTime: "11:40",
     	sessionIds: [008]
 			#sessionIds: [404,008, 404]
     }
     - {
-    	startTime: "11:25",
-    	endTime: "11:45",
+    	startTime: "11:40",
+    	endTime: "12:00",
     	sessionIds: [009]
 			#sessionIds: [404,009, 404]
     }
     - {
-    	startTime: "11:45",
-    	endTime: "12:05",
+    	startTime: "12:00",
+    	endTime: "12:20",
     	sessionIds: [011]
 			#sessionIds: [404,011, 404]
     }
     - {
-    	startTime: "12:05",
+    	startTime: "12:20",
     	endTime: "13:35",
     	sessionIds: [503]
     }
