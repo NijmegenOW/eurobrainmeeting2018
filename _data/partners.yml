@@ -1,6 +1,6 @@
 - 
   group: "With support of"
   elements: 
-    - {name: "52brain", description: "我爱脑科学论坛", link: "http://52brain.com/", imageUrl: "52brain.jpeg", width: "120px"}
-    - {name: "SR Research", description: "SR Research", link: "https://www.sr-research.com/", imageUrl: "sr-research.png", width: "180px"}
+    - {name: "52brain", description: "我爱脑科学论坛", link: "http://52brain.com/", imageUrl: "52brain.jpeg", width: "180px"}
+    - {name: "SR Research", description: "SR Research", link: "https://www.sr-research.com/", imageUrl: "sr-research.png", width: "100px"}
 #    - {name: "S3", description: "S3 - ", link: "https://#", imageUrl: "S3.svg", width: "120px"}
