@@ -24,12 +24,12 @@
   description: "FAQ"
 -
   id: 503
-  title: "Lunch Break"
+  title: "Lunch Break (自费)"
   place: "Dining room"
   service: true
 -
   id: 504
-  title: "Dinner"
+  title: "Dinner (自费)"
   place: "TBD"
   service: true
 -
