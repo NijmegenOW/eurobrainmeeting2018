@@ -6,7 +6,7 @@ isStaticPost: false
 ---
 2018年10月20日-21日，由在欧洲工作的华人学者发起的华人心理与脑科学会议(Chinese Association for Psychological & Brain Science Meeting 2018) (暨第二届52brain欧洲学术沙龙)在荷兰Donders脑、认知与行为研究所 (奈梅享Nijmegen) 顺利举行。在荷兰、德国、比利时和瑞典等国工作的60余名华人学者和留学生参加了本次会议。
 
-![CAPBS2018](/images/posts/CAPBSall.jpeg)
+![CAPBS2018](/img/posts/CAPBSall.jpeg)
 
 CAPBS 2018由华人心理与脑科学学会 (Chinese Association for Psychological & Brain Science) (筹) 主办。该学会由海内外华人心理与脑科学学者发起，为学术性公益组织；学会共同发起人有龚栩博士 (Donders Institute, 荷兰内梅亨)，胡悦博士 (Heinrich-Heine-Universität Düsseldorf, 德国杜塞尔多夫)，胡传鹏博士 (Universitätsmedizin Mainz，德国美因茨)，滕相斌博士 (MPI for Empirical Aesthetics, 德国法兰克福)，孔祥祯博士 (MPI for Psycholinguistics, 荷兰内梅亨)。学会旨在促进海外学习工作的心理与脑科学专业学者之间的交流，为华人学者提供一个学术互动和交流的平台。海外工作留学的学者可以 通过该平台分享学业和学术研究及海外生活方面的心得，以更好地工作、学习和生活状态开展心理与脑科学研究。
 
