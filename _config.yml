@@ -195,7 +195,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Frequently Asked Questions"}
+   - {link: "https://twitter.com/intent/user?screen_name=CAPBS2", text: "Frequently Asked Questions"}
 
 # Blog
 blogTitle: "Latest news"
